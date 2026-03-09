@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Adhitya 👋</h1>
 
+[![light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adhityanadooli&theme=high-contrast)](https://github.com/adhityanadooli/github-readme-activity-graph)
+
 <p align="center">
 High school developer building products at the intersection of <b>AI</b>, <b>developer tooling</b>, and <b>human-centered design</b>.
 </p>
